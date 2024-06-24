@@ -17,6 +17,9 @@ const start = async () => {
     console.log(error);
   }
 };
+/*
+      function 
+*/
 
 //function
 start();
